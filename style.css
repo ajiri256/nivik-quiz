@@ -1,0 +1,14 @@
+body{
+  background-color:rgba(100,100,100,0.38);
+  font-family: Arial,sans-serif;
+  text-align: left;
+  font-size: 32px;
+}
+h6{
+  text-transform: uppercase;
+}
+.one,.two,.three,.four,.five,.six{
+ width : 250px;
+  height: 30px;
+  border: 1px solid black;
+}
